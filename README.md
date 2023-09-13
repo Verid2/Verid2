@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Verid2 aka Gergely Ficsúr
-- 👀 I’m interested in Java,JavaScript,C#
-- 🌱 I’m currently learning as a FullStack Dev at GFA.
+- 👀 I’m interested in Java,JavaScript,C#,Python
 - 📫 How to reach me via e-mail: muteddnb22@gmail.com
 
 <!---
