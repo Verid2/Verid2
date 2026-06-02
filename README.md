@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Verid2 aka Gergely Ficsúr
 - 👀 I’m interested in Java,JavaScript,C#,Python
-- 📫 How to reach me via e-mail: muteddnb22@gmail.com
+- 📫 How to reach me via e-mail: gergely.ficsur@gmail.com
 
 <!---
 Verid2/Verid2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
